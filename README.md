@@ -15,4 +15,5 @@
 * [The Robots, AI, and Unemployment Anti-FAQ](http://lesswrong.com/lw/hh4/the_robots_ai_and_unemployment_antifaq/)
 * [GitXiv](http://www.gitxiv.com)
 * [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
+* [Deep Learning Enables You to Hide Screen when Your Boss is Approaching](http://ahogrammer.com/2016/11/15/deep-learning-enables-you-to-hide-screen-when-your-boss-is-approaching/)
 * [The Robots, AI, and Unemployment Anti-FAQ](http://lesswrong.com/lw/hh4/the_robots_ai_and_unemployment_antifaq/)
