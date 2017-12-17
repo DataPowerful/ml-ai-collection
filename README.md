@@ -53,4 +53,4 @@
 * [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 * [Revolutionary Discovery About the Human Brain Could Lead to Second-Gen AI](https://futurism.com/3-scientists-just-learned-something-revolutionary-about-the-brains-learning-capacity/)
 * [Artificial Intelligence A-Z™: Learn How To Build An AI](https://www.udemy.com/artificial-intelligence-az/?couponCode=EARLYBIRD&utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)
-* [https://futurism.com/elon-musk-just-unveiled-breakthrough-ai-research-heres-what-your-need-to-know/](Elon Musk Just Unveiled Breakthrough AI Research. Here’s What You Need to Know.)
+* [Elon Musk Just Unveiled Breakthrough AI Research. Here’s What You Need to Know.](https://futurism.com/elon-musk-just-unveiled-breakthrough-ai-research-heres-what-your-need-to-know/)
