@@ -104,7 +104,7 @@
 * [In Just 4 Hours, Google's AI Mastered All The Chess Knowledge in History](https://www.sciencealert.com/it-took-4-hours-google-s-ai-world-s-best-chess-player-deepmind-alphazero)
 * [Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213#slide=id.g168a3288f7_0_58)
 * ["Artificial Intelligence to create more jobs than it eliminates, by 2020" Gartner](http://www.houseofbots.com/news-detail/1673-1-artificial-intelligence-to-create-more-jobs-than-it-eliminates-by-2020-gartner)
-* [Serverless deep/machine learning in production — the pythonic 🐍 way ☯](https://medium.com/@waya.ai/deploy-deep-machine-learning-in-production-the-pythonic-way-a17105f1540e)
+* [Serverless deep/machine learning in production — the pythonic way](https://medium.com/@waya.ai/deploy-deep-machine-learning-in-production-the-pythonic-way-a17105f1540e)
 * [AI Researcher Ben Goertzel launches SingularityNET marketplace and AGI Coin cryptocurrency](https://www.nextbigfuture.com/2017/12/ai-researcher-ben-goertzel-launches-singularitynet-marketplace-and-agi-coin-cryptocurrency.html)
 * [Why Do Developers Find It Hard To Learn Machine Learning?](http://houseofbots.com/news-detail/1748-4-why-do-developers-find-it-hard-to-learn-machine-learning)
 * [Lime: Explaining the predictions of any machine learning classifier](https://github.com/marcotcr/lime)
