@@ -114,3 +114,5 @@
 * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
 * [Google announces free AI lessons, with 'Learn with Google AI'](https://yourstory.com/2018/03/google-announces-free-ai-lessons-learn-google-ai/)
 * [EBIC: an artificial intelligence-based parallel biclustering algorithm for pattern discovery](https://arxiv.org/abs/1801.03039)
+* [Digital Health: How Technology Could Reshape Health Insurance](https://coverager.com/digital-health-technology-reshape-health-insurance/)
+* [25 Open Datasets for Deep Learning Every Data Scientist Must Work With](https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/)
